@@ -3,7 +3,7 @@
 **************************************************
 #### $~ whoami --something-more
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/JoyGhoshs/joyghoshs/blob/main/unnamed.gif?raw=true">
 
 - I love watching cartoons :flushed:
 - When i dont have any work i walk on street :relieved:
