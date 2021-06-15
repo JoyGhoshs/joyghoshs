@@ -26,9 +26,11 @@
 #### $~ whatami
 - I am an self motivated person who wants to do things no one has imagine i could have done, Some random guy bullied me on high school, belive me these bullies doesn't hurt me those builles motivated me to do something i have never imagined.
 **************************************************
-
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img src="https://github-readme-stats.vercel.app/api?username=Joyghoshs&&show_icons=true&theme=dracula"/>
 </a>
 </p>
+<p align="center">
+  <img src="https://www.hackthebox.eu/badge/image/171953"/>
+  </p>
