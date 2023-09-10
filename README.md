@@ -3,9 +3,8 @@
 ```yaml
 -Details:
       -Name: Joy Ghosh
-      -Located_in: Dhaka,Narayongonj,Bangladesh
-      -Job: Developer&Security Researcher
-      -Company: System00 Security Bangladesh
+      -Located_in: Gulshan, Dhaka
+      - System00 Security Bangladesh
 -
 
 ```
